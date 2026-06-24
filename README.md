@@ -36,4 +36,4 @@ python -m venv .venv
 source .venv/bin/activate  # No Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-![Painel do ForteKnox Vault](dashboard.PNG)
+![Painel do ForteKnox Vault](https://github.com/JoaoBerry/forteknox-vault/blob/main/dashboard.png?raw=true)
