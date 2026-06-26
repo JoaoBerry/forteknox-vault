@@ -30,7 +30,7 @@ O **ForteKnox Vault** é um ecossistema seguro de gerenciamento de credenciais e
 
 ### 1. Clonar o repositório e configurar o ambiente:
 ```bash
-git clone https://github.com/SEU_USUARIO/forteknox-vault.git(https://github.com/JoaoBerry/forteknox-vault.git)
+git clone https://github.com/JoaoBerry/forteknox-vault.git(https://github.com/JoaoBerry/forteknox-vault.git)
 cd forteknox-vault
 python -m venv .venv
 source .venv/bin/activate  # No Windows: .venv\Scripts\activate
